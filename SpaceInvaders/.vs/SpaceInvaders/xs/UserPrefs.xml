@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{D64CAEE7-4128-4D96-816C-0068C52973D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpaceInvaders/EnemyBlock.cs">
+    <Files>
+      <File FileName="SpaceInvaders/Bunker.cs" Line="15" Column="23" />
+      <File FileName="SpaceInvaders/SpaceShip.cs" Line="37" Column="33" />
+      <File FileName="SpaceInvaders/Missile.cs" Line="36" Column="42" />
+      <File FileName="SpaceInvaders/SimpleObject.cs" Line="50" Column="96" />
+      <File FileName="SpaceInvaders/EnemyBlock.cs" Line="53" Column="13" />
+      <File FileName="SpaceInvaders/Game.cs" Line="183" Column="40" />
+      <File FileName="SpaceInvaders/PlayerSpaceship.cs" Line="29" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SpaceInvaders PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
